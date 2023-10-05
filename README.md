@@ -36,7 +36,7 @@ The trajectory is generated using the librosa library. Initially, a long list of
 
 Download repository
 ```
-git clone https://github.com/panchasan/ARL_project.git
+git clone https://github.com/joannawalowska/drone_music_synchro.git
 ```
 
 Build docker image from delivered Dockerfile
